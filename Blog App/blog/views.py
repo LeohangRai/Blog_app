@@ -8,14 +8,14 @@ posts = [
         'author': 'CoreyMS',
         'title': 'Blog Post 1',
         'content': 'First post content',
-        'data_posted': 'April 27, 2020'
+        'date_posted': 'April 27, 2020'
     },
 
     {
         'author': 'Jane Doe',
         'title': 'Blog Post 2',
         'content': 'Second post content',
-        'data_posted': 'April 28, 2020'
+        'date_posted': 'April 28, 2020'
     }
 
 ]
